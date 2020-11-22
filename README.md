@@ -1,3 +1,5 @@
+![alt text](https://cdn.discordapp.com/attachments/735611557370658846/779864289678065715/unknown.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
