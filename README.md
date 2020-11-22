@@ -1,4 +1,4 @@
-![alt text](https://cdn.discordapp.com/attachments/735611557370658846/779864289678065715/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/735611557370658846/779866095044526100/Ekran_Alnts.PNG)
 
 # Getting Started with Create React App
 
