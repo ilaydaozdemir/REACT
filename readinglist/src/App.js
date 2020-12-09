@@ -1,4 +1,5 @@
 import './App.css';
+import Booklist from './components.js/BookList';
 import Navbar from './components.js/Navbar';
 import BookContextProvider from './contexts/BookContext';
 
@@ -7,6 +8,7 @@ function App() {
     <div className='App'>
       <BookContextProvider>
         <Navbar />
+        <Booklist />
       </BookContextProvider>
     </div>
   );
